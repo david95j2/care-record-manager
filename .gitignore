@@ -1,0 +1,27 @@
+# Only application source and synthetic tests. Never database, uploads or credentials.
+/*
+!/.gitignore
+!/README.md
+!/SALES_REVIEW.md
+!/domain.py
+!/store.py
+!/migrations.py
+!/server.py
+!/sales_import.py
+!/sales_store.py
+!/requirements.txt
+!/run.ps1
+!/startup-task.ps1
+!/static/
+/static/*
+!/static/*.html
+!/static/*.css
+!/static/*.js
+!/tests/
+/tests/*
+!/tests/test_core.py
+!/tests/test_migrations.py
+!/tests/test_sales.py
+!/tests/autosave.test.cjs
+!/tests/theme.test.cjs
+!/tests/startup_dry_run.py
