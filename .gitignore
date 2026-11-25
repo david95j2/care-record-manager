@@ -25,3 +25,7 @@
 !/tests/autosave.test.cjs
 !/tests/theme.test.cjs
 !/tests/startup_dry_run.py
+!/docs/
+/docs/*
+!/docs/PC_TRANSFER.md
+!/docs/DEVELOPMENT_HANDOFF.md
